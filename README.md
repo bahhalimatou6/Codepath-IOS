@@ -28,7 +28,7 @@ Also I had a difficult time figuring out how to create the gif and add it to REA
  
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [ Halimatou Bah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
